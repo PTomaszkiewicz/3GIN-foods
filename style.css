@@ -1,0 +1,200 @@
+nav{
+    width: full;
+}
+.text-odstep{
+    margin-right: 5px;
+}
+#food_navbar_search{
+    border:none;
+    font-weight: 700;
+    color:black;
+}
+#food_navbar_search:focus{
+    outline:none;
+}
+#food_navbar_search::placeholder{
+    color:black;
+}
+.navbar-menu button{
+    padding:10px;
+    display:inline-flex;
+    color:orange;
+    border: none;
+    border-radius: 10px;
+    box-shadow: -1px 1px 0.5rem orange;
+}
+.navbar-menu button img{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 5px;
+    height: 15px;
+    width: auto;
+}
+.navbar-menu button:hover{
+    background-color: white;
+    color:orange;
+}
+.navbar-menu{
+    display: inline-flex;
+}
+.location-info{
+  padding-top: 1%;
+}
+#lupsko{
+    margin-right: 5px;
+    margin-top: 8px;
+    height: 20px;
+    width:auto;
+}
+#marker{
+    height: 20px;
+    width: auto;
+}
+.logofull{
+    font-size: 30px;
+    padding-top:10px;
+    font-weight: 800;
+}
+#logo1{
+    color:orangered;
+}
+#logo2{
+    color:orange;
+}
+#logoicon{
+    margin-right: 20px;
+    margin-top: -5px;
+    height: 30px;
+    width: auto;
+}
+.part1{
+    background-color:rgb(255, 196, 0) ;
+    width: full;
+    
+}
+.part1left{
+    display: inline-flex;
+    padding-top:100px;
+    padding-bottom: 100px;
+    width:55%;
+}
+.part1content{
+    margin-left:10vw;
+}
+#slogan1{
+    font-weight: 700;
+    font-size: 60px;
+    color:white;
+}
+#slogan2{
+    font-size: 25px;
+    color:rgb(61, 61, 61);
+}
+.searchbox{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+.deliverybuttons button{
+    border-radius: 8px;
+    border: none;
+    font-weight: 900;
+    font-size: 20px;
+    padding: 10px;
+}
+#delivery{
+    background-color: rgba(241, 114, 40, 0.1);
+    color:orangered;
+    margin-right: 20px;
+}
+#pickup{
+    background-color: white;
+    color:gray;
+}
+.bottomsearch{
+    margin-top:50px
+}
+#searchfood{
+    width:70%;
+    padding:10px;
+    background-color: #F5F5F5;
+    border:none;
+    border-radius: 8px;
+}
+#searchfoodsubmit{
+    width: 25%;
+    border: none;
+    font-weight: 700;
+    border-radius: 10px;
+    color:white;
+    padding:15px;
+    background: linear-gradient(95.71deg, #FF7A7A -39.64%, #F75900 135.31%);
+}
+.part1right{
+    position: relative;
+}
+#micha{
+    margin-top: auto;
+    position:relative;
+    width:30vw;
+    height:auto;
+    left:50%;
+    bottom: 0;
+}
+.deliverybuttons button img{
+    height: 17px;
+    width: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 5px;
+}
+.part2{
+    padding: 40px 0 40px 0;
+    background-color: white;
+}
+.part2card{
+    border:none;
+    background-color: white;
+}
+.part2cardbody{
+    padding-left: 0;
+    background-color: white;
+}
+.part2title{
+    margin-top: 30px;
+    font-weight: 700;
+}
+.timecounter{
+    border-radius: 5px;
+    padding: 10px;
+    background-color:  rgba(241, 114, 40, 0.2);
+    color:#F17228;
+}
+.timecountertext{
+    margin:auto;
+    font-weight: 700;
+}
+.part3{
+    background: linear-gradient(180deg, rgba(255, 206, 103, 0.22) -42.47%, rgba(253, 237, 202, 0) 100%);
+    padding: 60px 100px 60px 100px;
+}
+.part3title{
+    text-align: center;
+    font-weight: 800;
+    color:#F17228;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.part3opis{
+    color: gray;
+    font-size: 20px;
+    padding-left: auto;
+    padding-right: auto;
+    text-align: center;
+}
+.part3minititle{
+    text-align: center;
+}
+.part3photos{
+    margin-left: 18%;
+}
